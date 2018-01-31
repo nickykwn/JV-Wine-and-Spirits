@@ -1,0 +1,25 @@
+{
+  "name": "jvwineandspirits",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.0",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickykwn/JV-Wine-and-Spirits.git"
+  },
+  "author": "Nicky Kwan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickykwn/JV-Wine-and-Spirits/issues"
+  },
+  "homepage": "https://github.com/nickykwn/JV-Wine-and-Spirits#readme"
+}
